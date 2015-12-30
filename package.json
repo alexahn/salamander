@@ -2,6 +2,19 @@
   "name": "salamander",
   "version": "0.0.1",
   "description": "A set of modules for writing BitTorrent applications",
+  "keywords": [
+    "bittorrent",
+    "bittorrent client",
+    "bittorrent framework",
+    "bittorent library",
+    "bittorrent protocol",
+    "torrent",
+    "peer-to-peer",
+    "protocol",
+    "wire",
+    "peer",
+    "p2p"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
